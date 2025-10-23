@@ -1,5 +1,3 @@
-Got it 👍 — here’s your **final polished version** of the profile, with **C removed** and the focus clearly on your **backend software engineering expertise**, strengthened by your **Python, Java, SQL, and JavaScript** background — and a subtle **data analytics edge** from your graduate work.
-
 ---
 
 🌍 **Hi, I'm Syprian Oduor 👋**
